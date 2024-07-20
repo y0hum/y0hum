@@ -1,5 +1,7 @@
-# 👋 Hi there, I'm Dmitry
-### Experienced Full Stack Developer
+<div align="center">
+    <h1>👋 Hi there, I'm Dmitry</h1>
+    <h3>Experienced Full Stack Developer</h3>
+</div>
 
 ### About me
 Specializing in creating high-performance web applications. Over 7 years of experience in architecture design and development. I guarantee quality solutions and attention to detail.
