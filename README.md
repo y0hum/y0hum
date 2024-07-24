@@ -40,7 +40,7 @@ E-Mail: badarancha.dmitry@gmail.com<br><br>
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://wa.me/380983027209" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-0cc143?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 <a href="https://t.me/y0hum" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-29aaec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
