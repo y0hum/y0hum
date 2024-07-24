@@ -37,17 +37,18 @@ My goal is to help you achieve your business objectives through quality and effi
 ### Contact me
 E-Mail: badarancha.dmitry@gmail.com<br><br>
 <a href="https://www.linkedin.com/in/y0hum/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://wa.me/380983027209" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 <a href="https://t.me/y0hum" title="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-29aaec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://discord.gg/6veY2AZzTv" title="Discord">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://www.upwork.com/freelancers/~012e743bb54eb41bd2" title="UpWork">
-    <img src="https://img.shields.io/badge/UpWork-blue?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork"/>
+    <img src="https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork"/>
 </a>
+
