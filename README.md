@@ -1,6 +1,6 @@
 <div align="center">
     <h1>👋 Hi there, I'm Dmitry</h1>
-    <h3>Experienced Back-End Developer</h3>
+    <h3>Lead Back-End Developer</h3>
 </div>
 
 ### About me
